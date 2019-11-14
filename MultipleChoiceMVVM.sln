@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultipleChoiceMVVM", "MultipleChoiceMVVM.csproj", "{D7654628-9644-4FE5-802C-040355484C99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7654628-9644-4FE5-802C-040355484C99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7654628-9644-4FE5-802C-040355484C99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7654628-9644-4FE5-802C-040355484C99}.Debug|x64.ActiveCfg = Debug|x64
+		{D7654628-9644-4FE5-802C-040355484C99}.Debug|x64.Build.0 = Debug|x64
+		{D7654628-9644-4FE5-802C-040355484C99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7654628-9644-4FE5-802C-040355484C99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7654628-9644-4FE5-802C-040355484C99}.Release|x64.ActiveCfg = Release|x64
+		{D7654628-9644-4FE5-802C-040355484C99}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF7FE84A-EF89-482E-91B6-380079401168}
+	EndGlobalSection
+EndGlobal

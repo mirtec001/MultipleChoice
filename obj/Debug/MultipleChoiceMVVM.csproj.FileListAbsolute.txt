@@ -1,0 +1,56 @@
+C:\Users\misikp\source\repos\MultipleChoiceMVVM\bin\Debug\x86\sqlite3.dll
+C:\Users\misikp\source\repos\MultipleChoiceMVVM\bin\Debug\x64\sqlite3.dll
+C:\Users\misikp\source\repos\MultipleChoiceMVVM\bin\Debug\MultipleChoiceMVVM.exe.config
+C:\Users\misikp\source\repos\MultipleChoiceMVVM\bin\Debug\MultipleChoiceMVVM.exe
+C:\Users\misikp\source\repos\MultipleChoiceMVVM\bin\Debug\MultipleChoiceMVVM.pdb
+C:\Users\misikp\source\repos\MultipleChoiceMVVM\bin\Debug\EntityFramework.dll
+C:\Users\misikp\source\repos\MultipleChoiceMVVM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\misikp\source\repos\MultipleChoiceMVVM\bin\Debug\System.Data.SQLite.dll
+C:\Users\misikp\source\repos\MultipleChoiceMVVM\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\misikp\source\repos\MultipleChoiceMVVM\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\misikp\source\repos\MultipleChoiceMVVM\bin\Debug\EntityFramework.xml
+C:\Users\misikp\source\repos\MultipleChoiceMVVM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\misikp\source\repos\MultipleChoiceMVVM\bin\Debug\System.Data.SQLite.xml
+C:\Users\misikp\source\repos\MultipleChoiceMVVM\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\misikp\source\repos\MultipleChoiceMVVM\obj\Debug\MultipleChoiceMVVM.csprojAssemblyReference.cache
+C:\Users\misikp\source\repos\MultipleChoiceMVVM\obj\Debug\App.g.cs
+C:\Users\misikp\source\repos\MultipleChoiceMVVM\obj\Debug\MultipleChoiceMVVM_Content.g.cs
+C:\Users\misikp\source\repos\MultipleChoiceMVVM\obj\Debug\MultipleChoiceMVVM_MarkupCompile.cache
+C:\Users\misikp\source\repos\MultipleChoiceMVVM\obj\Debug\MultipleChoiceMVVM_MarkupCompile.lref
+C:\Users\misikp\source\repos\MultipleChoiceMVVM\obj\Debug\MultipleChoiceMVVM.g.resources
+C:\Users\misikp\source\repos\MultipleChoiceMVVM\obj\Debug\MultipleChoiceMVVM.Properties.Resources.resources
+C:\Users\misikp\source\repos\MultipleChoiceMVVM\obj\Debug\MultipleChoiceMVVM.csproj.GenerateResource.cache
+C:\Users\misikp\source\repos\MultipleChoiceMVVM\obj\Debug\MultipleChoiceMVVM.csproj.CopyComplete
+C:\Users\misikp\source\repos\MultipleChoiceMVVM\obj\Debug\MultipleChoiceMVVM.exe
+C:\Users\misikp\source\repos\MultipleChoiceMVVM\obj\Debug\MultipleChoiceMVVM.pdb
+C:\Users\misikp\source\repos\MultipleChoiceMVVM\obj\Debug\MainWindowView.g.cs
+C:\Users\misikp\source\repos\MultipleChoiceMVVM\obj\Debug\MainWindowView.baml
+C:\Users\misikp\source\repos\MultipleChoiceMVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\misikp\Downloads\C# Dev\MultipleChoiceMVVM\bin\Debug\x86\sqlite3.dll
+C:\Users\misikp\Downloads\C# Dev\MultipleChoiceMVVM\bin\Debug\x64\sqlite3.dll
+C:\Users\misikp\Downloads\C# Dev\MultipleChoiceMVVM\bin\Debug\MultipleChoiceMVVM.exe.config
+C:\Users\misikp\Downloads\C# Dev\MultipleChoiceMVVM\bin\Debug\MultipleChoiceMVVM.exe
+C:\Users\misikp\Downloads\C# Dev\MultipleChoiceMVVM\bin\Debug\MultipleChoiceMVVM.pdb
+C:\Users\misikp\Downloads\C# Dev\MultipleChoiceMVVM\bin\Debug\EntityFramework.dll
+C:\Users\misikp\Downloads\C# Dev\MultipleChoiceMVVM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\misikp\Downloads\C# Dev\MultipleChoiceMVVM\bin\Debug\System.Data.SQLite.dll
+C:\Users\misikp\Downloads\C# Dev\MultipleChoiceMVVM\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\misikp\Downloads\C# Dev\MultipleChoiceMVVM\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\misikp\Downloads\C# Dev\MultipleChoiceMVVM\bin\Debug\EntityFramework.xml
+C:\Users\misikp\Downloads\C# Dev\MultipleChoiceMVVM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\misikp\Downloads\C# Dev\MultipleChoiceMVVM\bin\Debug\System.Data.SQLite.xml
+C:\Users\misikp\Downloads\C# Dev\MultipleChoiceMVVM\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\misikp\Downloads\C# Dev\MultipleChoiceMVVM\obj\Debug\MultipleChoiceMVVM.csprojAssemblyReference.cache
+C:\Users\misikp\Downloads\C# Dev\MultipleChoiceMVVM\obj\Debug\MainWindowView.g.cs
+C:\Users\misikp\Downloads\C# Dev\MultipleChoiceMVVM\obj\Debug\App.g.cs
+C:\Users\misikp\Downloads\C# Dev\MultipleChoiceMVVM\obj\Debug\MultipleChoiceMVVM_Content.g.cs
+C:\Users\misikp\Downloads\C# Dev\MultipleChoiceMVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\misikp\Downloads\C# Dev\MultipleChoiceMVVM\obj\Debug\MultipleChoiceMVVM_MarkupCompile.cache
+C:\Users\misikp\Downloads\C# Dev\MultipleChoiceMVVM\obj\Debug\MultipleChoiceMVVM_MarkupCompile.lref
+C:\Users\misikp\Downloads\C# Dev\MultipleChoiceMVVM\obj\Debug\MainWindowView.baml
+C:\Users\misikp\Downloads\C# Dev\MultipleChoiceMVVM\obj\Debug\MultipleChoiceMVVM.g.resources
+C:\Users\misikp\Downloads\C# Dev\MultipleChoiceMVVM\obj\Debug\MultipleChoiceMVVM.Properties.Resources.resources
+C:\Users\misikp\Downloads\C# Dev\MultipleChoiceMVVM\obj\Debug\MultipleChoiceMVVM.csproj.GenerateResource.cache
+C:\Users\misikp\Downloads\C# Dev\MultipleChoiceMVVM\obj\Debug\MultipleChoiceMVVM.csproj.CopyComplete
+C:\Users\misikp\Downloads\C# Dev\MultipleChoiceMVVM\obj\Debug\MultipleChoiceMVVM.exe
+C:\Users\misikp\Downloads\C# Dev\MultipleChoiceMVVM\obj\Debug\MultipleChoiceMVVM.pdb

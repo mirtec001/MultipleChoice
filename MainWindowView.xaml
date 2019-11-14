@@ -1,0 +1,136 @@
+﻿<Window x:Class="MultipleChoiceMVVM.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MultipleChoiceMVVM"
+        xmlns:viewmodels="clr-namespace:MultipleChoiceMVVM.ViewModel"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+
+    <Window.DataContext>
+        <viewmodels:MainWindowViewModel/>
+    </Window.DataContext>
+    
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="10"/>
+            <ColumnDefinition Width="50"/>
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition Width="10"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="25"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="25"/>
+            <RowDefinition Height="10"/>
+        </Grid.RowDefinitions>
+        <Menu 
+            x:Name="mainmenu" 
+            Grid.Row="0"
+            Grid.ColumnSpan="5"
+            HorizontalAlignment="Stretch" 
+            VerticalAlignment="Top" 
+            Width="Auto"
+            Height="25">
+            <MenuItem x:Name="filemenu" Header="_File" >
+                <MenuItem x:Name="filemenu_new" Header="_Open Database" Command="{Binding Path=LoadTest}"/>
+            </MenuItem>
+            <MenuItem x:Name="editmenu" Header="_Edit" >
+                <MenuItem x:Name="editmenu_import" Header="_Import Questions" Command="{Binding Path=LoadNewQuestions}" />
+            </MenuItem>
+            <MenuItem x:Name="helpmenu" Header="_Help" >
+                <MenuItem x:Name="readme" Header="_ReadMe" />
+            </MenuItem>
+        </Menu>
+
+        <TextBlock
+            x:Name="questionBlock"
+            Grid.Column="1"
+            Grid.Row="1"
+            Grid.ColumnSpan="3"
+            TextWrapping="WrapWithOverflow"
+            Text="{Binding Question}"
+            />
+
+        <RadioButton 
+            Content="A." 
+            x:Name="rdobtna" 
+            Grid.Column="1" 
+            Grid.Row="2" 
+            VerticalAlignment="Center" 
+            HorizontalAlignment="Center" 
+            IsChecked="{Binding Rdoanswera}"/>
+        <TextBlock
+            x:Name="lbla"
+            VerticalAlignment="Center"
+            Grid.Column="2"
+            Grid.Row="2"
+            Grid.ColumnSpan="2"
+            Text="{Binding Answera}"
+            />
+        <RadioButton 
+            Content="B." 
+            x:Name="rdobtnb" 
+            Grid.Column="1" 
+            Grid.Row="3" 
+            VerticalAlignment="Center" 
+            HorizontalAlignment="Center" 
+            IsChecked="{Binding Rdoanswerb}"/>
+        <TextBlock
+            x:Name="lblb"
+            VerticalAlignment="Center"
+            Grid.Column="2"
+            Grid.Row="3"
+            Grid.ColumnSpan="2"
+            Text="{Binding Answerb}"
+            />
+        <RadioButton 
+            Content="C." 
+            x:Name="rdobtnc" 
+            Grid.Column="1" 
+            Grid.Row="4" 
+            VerticalAlignment="Center" 
+            HorizontalAlignment="Center" 
+            IsChecked="{Binding Rdoanswerc}"/>
+        <TextBlock
+            x:Name="blkc"
+            VerticalAlignment="Center"
+            Grid.Column="2"
+            Grid.Row="4"
+            Grid.ColumnSpan="2"
+            TextWrapping="WrapWithOverflow"
+            Text="{Binding Answerc}"
+            />
+        <RadioButton 
+            Content="D." 
+            x:Name="rdobtnd" 
+            Grid.Column="1" 
+            Grid.Row="5" 
+            VerticalAlignment="Center" 
+            HorizontalAlignment="Center" 
+            IsChecked="{Binding Rdoanswerd}"/>
+        <TextBlock
+            x:Name="lbld"
+            VerticalAlignment="Center"
+            Grid.Column="2"
+            Grid.Row="5"
+            Grid.ColumnSpan="2"
+            Text="{Binding Answerd}"
+            />
+        <Button
+            x:Name="Submit"
+            Grid.Column="3"
+            Grid.Row="6"
+            Width="100"
+            Height="25"
+            Content="Submit" 
+            Command="{Binding SubmitAnswer}"/>
+
+    </Grid>
+</Window>
